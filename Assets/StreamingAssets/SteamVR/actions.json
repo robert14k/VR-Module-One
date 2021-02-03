@@ -81,6 +81,13 @@
       "name": "/actions/mixedreality/in/ExternalCamera",
       "type": "pose",
       "requirement": "optional"
+<<<<<<< HEAD
+=======
+    },
+    {
+      "name": "/actions/NewSet/in/NewAction",
+      "type": "boolean"
+>>>>>>> 881005dd6d297c1ac57070619c415a9b3631def8
     }
   ],
   "action_sets": [
@@ -99,6 +106,13 @@
     {
       "name": "/actions/mixedreality",
       "usage": "single"
+<<<<<<< HEAD
+=======
+    },
+    {
+      "name": "/actions/NewSet",
+      "usage": "single"
+>>>>>>> 881005dd6d297c1ac57070619c415a9b3631def8
     }
   ],
   "default_bindings": [
